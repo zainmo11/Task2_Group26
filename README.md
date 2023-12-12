@@ -1,5 +1,4 @@
-
-                Welcome to Digital Logic Circuit Simplifier
+### Welcome to Digital Logic Circuit Simplifier
 
 To use this program, consider the following:
   - Use '&' for AND, '|' for OR, and '!' for NOT.
